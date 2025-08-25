@@ -32,6 +32,18 @@
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)  
 
 ---
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rakesh611&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakesh611&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakesh611&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
+---
 
 ## 🧑‍💻 About Me
 - 🌐 Experienced **System Administrator** skilled in **Linux Server Administration, Kubernetes, Docker, and DevOps automation**.  
