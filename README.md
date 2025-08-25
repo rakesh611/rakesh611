@@ -1,9 +1,22 @@
 # 👋 Hi, I'm Rakesh Kumar Jha  
 
 🚀 **Linux | DevOps | Kubernetes | Networking**  
-💻 9+ years of experience in IT Infrastructure, System Administration, and DevOps Automation.  
+💻 9+ years of experience in IT Infrastructure, System Administration, and DevOps Automation  
 
 ---
+
+## 🧑‍💻 About Me  
+- 🌐 Experienced **System Administrator** with expertise in **Linux Server Administration, Kubernetes, Docker, and DevOps automation**  
+- 🔧 Skilled in **Ansible, Jenkins, GitLab CI, Git**, and **Infrastructure as Code (IaC)**  
+- 📊 Strong background in **Monitoring & Observability** using **Nagios, Prometheus, Grafana**  
+- 🛰️ Hands-on with **Networking (DNS, DHCP, VPN, Firewalls, Routing, Switching)**  
+- ☁️ Exposure to **Cloud & Hybrid Infrastructure** (AWS, OpenShift)  
+- 🔐 Focused on **system security, performance tuning, and disaster recovery strategies**  
+
+---
+
+## 🛠️ Skills & Tools  
+
 ### 🚀 DevOps & Automation  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)  
@@ -32,64 +45,44 @@
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)  
 
 ---
-## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakesh611&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakesh611&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakesh611&theme=tokyonight" alt="GitHub Streak"/>
-</p>
+## 📂 Key Experience & Projects  
+- ⚙️ Managed **Kubernetes clusters** with RBAC, Network Policies, Resource Quotas  
+- 🛠️ Built automated **CI/CD pipelines** with Jenkins + GitLab CI integrating Ansible, Docker, Kubernetes  
+- 📦 Developed and optimized **Docker images** for consistent deployments  
+- 📈 Implemented **Monitoring & Alerting** with Prometheus, Grafana, Nagios to reduce downtime  
+- 🔑 Configured and secured **network services (DNS, DHCP, VPN)** for enterprise infra  
 
 ---
 
-## 🧑‍💻 About Me
-- 🌐 Experienced **System Administrator** skilled in **Linux Server Administration, Kubernetes, Docker, and DevOps automation**.  
-- 🔧 Proficient in **Ansible, Jenkins, GitLab CI, Git**, and **Infrastructure as Code (IaC)**.  
-- 📊 Strong background in **Monitoring & Observability** with **Nagios, Prometheus, and Grafana**.  
-- 🛰️ Hands-on with **Networking (DNS, DHCP, VPN, Firewalls, Routing, Switching)**.  
-- ☁️ Exposure to **Cloud & Hybrid Infrastructure** (AWS, OpenShift).  
-- 🔐 Focused on **system security, performance tuning, and disaster recovery strategies**.  
-
----
-
-## 🛠️ Core Skills
-- **Linux Server Administration & Troubleshooting**  
-- **Kubernetes Orchestration & Docker Containerization**  
-- **CI/CD Pipelines (Jenkins, GitLab CI)**  
-- **Automation with Ansible & Bash**  
-- **Monitoring: Nagios, Prometheus, Grafana**  
-- **Networking: DNS, DHCP, VPN, Firewalls**  
-- **Backup, DR, and High Availability**  
-
----
-
-## 📂 Projects & Experience
-- ⚙️ Deployed and managed **Kubernetes clusters** for microservices (RBAC, Network Policies, Resource Quotas).  
-- 🛠️ Built automated **CI/CD pipelines** with Jenkins + GitLab CI integrating **Ansible, Docker, Kubernetes**.  
-- 📦 Developed and optimized **Docker images** for portable, reproducible deployments.  
-- 📈 Implemented **Monitoring & Alerting** with **Prometheus, Grafana, Nagios** to reduce downtime.  
-- 🔑 Configured and secured **network services (DNS, DHCP, VPN)** across enterprise infra.  
-
----
-
-## 📜 Certifications
+## 📜 Certifications  
 - ✅ [Red Hat Certified System Administrator (RHCSA)](https://rhtapps.redhat.com/verify?certId=250-129-236)  
 - ✅ Cisco Certified Network Associate (**CCNA**)  
 - 📚 Training in **DevOps, AWS Cloud, OpenShift**  
 
 ---
 
-## 📞 Contact Me
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rakesh611&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakesh611&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
+</p>  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakesh611&theme=tokyonight" alt="GitHub Streak"/>
+</p>  
+
+
+---
+
+## 📞 Contact Me  
 - 📍 New Delhi, India  
 - 📧 Email: **jharakesh485@gmail.com**  
 - 📱 Phone: **+91-9654288135**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/rakesh-jha-0b864b166/)
-- 🐙 [GitHub](https://github.com/rakesh611)
+- 💼 [LinkedIn](https://www.linkedin.com/in/rakesh-jha-0b864b166/)  
+- 🐙 [GitHub](https://github.com/rakesh611)  
 
 ---
 
 ⚡ *“Passionate about automating infrastructure, optimizing systems, and enabling smooth DevOps workflows.”*  
-
