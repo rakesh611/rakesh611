@@ -18,7 +18,7 @@
 ## 🛠️ Skills & Tools  
 
 ### 🚀 DevOps & Automation  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![Linux](https://img.shields.io/badge/Linux-#ffffff?style=for-the-badge&logo=linux&logoColor=black)  
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)  
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
