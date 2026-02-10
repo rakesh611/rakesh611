@@ -26,9 +26,9 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-ffffff?style=for-the-badge&logo=jenkins&logoColor=black)  
 
 ### ☸️ Containers & Orchestration  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
-![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=red-hat-open-shift&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-ffffff?style=for-the-badge&logo=docker&logoColor=black)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-ffffff?style=for-the-badge&logo=kubernetes&logoColor=black)  
+![OpenShift](https://img.shields.io/badge/OpenShift-ffffff?style=for-the-badge&logo=red-hat-open-shift&logoColor=black)  
 
 ### 📊 Monitoring & Observability  
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)  
