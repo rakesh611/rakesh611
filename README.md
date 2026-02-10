@@ -18,12 +18,7 @@
 ## 🛠️ Skills & Tools  
 
 ### 🚀 DevOps & Automation  
-![Linux](https://img.shields.io/badge/Linux-ffffff?style=for-the-badge&logo=linux&logoColor=black)  
-![Ansible](https://img.shields.io/badge/Ansible-ffffff?style=for-the-badge&logo=ansible&logoColor=black)  
-![Bash](https://img.shields.io/badge/Bash-ffffff?style=for-the-badge&logo=gnu-bash&logoColor=black)  
-![Git](https://img.shields.io/badge/Git-ffffff?style=for-the-badge&logo=git&logoColor=black)  
-![GitLab CI](https://img.shields.io/badge/GitLab%20CI-ffffff?style=for-the-badge&logo=gitlab&logoColor=black)  
-![Jenkins](https://img.shields.io/badge/Jenkins-ffffff?style=for-the-badge&logo=jenkins&logoColor=black)  
+![Linux](https://img.shields.io/badge/Linux-ffffff?style=for-the-badge&logo=linux&logoColor=black)  ![Ansible](https://img.shields.io/badge/Ansible-ffffff?style=for-the-badge&logo=ansible&logoColor=black)  ![Bash](https://img.shields.io/badge/Bash-ffffff?style=for-the-badge&logo=gnu-bash&logoColor=black)  ![Git](https://img.shields.io/badge/Git-ffffff?style=for-the-badge&logo=git&logoColor=black)  ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-ffffff?style=for-the-badge&logo=gitlab&logoColor=black)  ![Jenkins](https://img.shields.io/badge/Jenkins-ffffff?style=for-the-badge&logo=jenkins&logoColor=black)  
 
 ### ☸️ Containers & Orchestration  
 ![Docker](https://img.shields.io/badge/Docker-ffffff?style=for-the-badge&logo=docker&logoColor=black)  
