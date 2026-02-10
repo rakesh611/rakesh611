@@ -21,23 +21,16 @@
 ![Linux](https://img.shields.io/badge/Linux-ffffff?style=for-the-badge&logo=linux&logoColor=black)  ![Ansible](https://img.shields.io/badge/Ansible-ffffff?style=for-the-badge&logo=ansible&logoColor=black)  ![Bash](https://img.shields.io/badge/Bash-ffffff?style=for-the-badge&logo=gnu-bash&logoColor=black)  ![Git](https://img.shields.io/badge/Git-ffffff?style=for-the-badge&logo=git&logoColor=black)  ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-ffffff?style=for-the-badge&logo=gitlab&logoColor=black)  ![Jenkins](https://img.shields.io/badge/Jenkins-ffffff?style=for-the-badge&logo=jenkins&logoColor=black)  
 
 ### ☸️ Containers & Orchestration  
-![Docker](https://img.shields.io/badge/Docker-ffffff?style=for-the-badge&logo=docker&logoColor=black)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-ffffff?style=for-the-badge&logo=kubernetes&logoColor=black)  
-![OpenShift](https://img.shields.io/badge/OpenShift-ffffff?style=for-the-badge&logo=red-hat-open-shift&logoColor=black)  
+![Docker](https://img.shields.io/badge/Docker-ffffff?style=for-the-badge&logo=docker&logoColor=black)  ![Kubernetes](https://img.shields.io/badge/Kubernetes-ffffff?style=for-the-badge&logo=kubernetes&logoColor=black)  ![OpenShift](https://img.shields.io/badge/OpenShift-ffffff?style=for-the-badge&logo=red-hat-open-shift&logoColor=black)  
 
 ### 📊 Monitoring & Observability  
-![Prometheus](https://img.shields.io/badge/Prometheus-ffffff?style=for-the-badge&logo=prometheus&logoColor=black)  
-![Grafana](https://img.shields.io/badge/Grafana-ffffff?style=for-the-badge&logo=grafana&logoColor=black)  
-![Nagios](https://img.shields.io/badge/Nagios-ffffff?style=for-the-badge&logo=nagios&logoColor=black)  
+![Prometheus](https://img.shields.io/badge/Prometheus-ffffff?style=for-the-badge&logo=prometheus&logoColor=black)  ![Grafana](https://img.shields.io/badge/Grafana-ffffff?style=for-the-badge&logo=grafana&logoColor=black)  ![Nagios](https://img.shields.io/badge/Nagios-ffffff?style=for-the-badge&logo=nagios&logoColor=black)  
 
 ### 🌐 Networking & Security  
-![Cisco](https://img.shields.io/badge/Cisco-ffffff?style=for-the-badge&logo=cisco&logoColor=black)  
-![VPN](https://img.shields.io/badge/VPN-ffffff?style=for-the-badge&logo=protonvpn&logoColor=black)  
-![Firewall](https://img.shields.io/badge/Firewall-ffffff?style=for-the-badge&logoColor=black)  
+![Cisco](https://img.shields.io/badge/Cisco-ffffff?style=for-the-badge&logo=cisco&logoColor=black)  ![VPN](https://img.shields.io/badge/VPN-ffffff?style=for-the-badge&logo=protonvpn&logoColor=black)  ![Firewall](https://img.shields.io/badge/Firewall-ffffff?style=for-the-badge&logoColor=black)  
 
 ### ☁️ Cloud & Infra  
-![AWS](https://img.shields.io/badge/AWS-ffffff?style=for-the-badge&logo=amazon-aws&logoColor=black)  
-![VMware](https://img.shields.io/badge/VMware-ffffff?style=for-the-badge&logo=vmware&logoColor=black)  
+![AWS](https://img.shields.io/badge/AWS-ffffff?style=for-the-badge&logo=amazon-aws&logoColor=black)  ![VMware](https://img.shields.io/badge/VMware-ffffff?style=for-the-badge&logo=vmware&logoColor=black)  
 
 ---
 
