@@ -31,14 +31,14 @@
 ![OpenShift](https://img.shields.io/badge/OpenShift-ffffff?style=for-the-badge&logo=red-hat-open-shift&logoColor=black)  
 
 ### 📊 Monitoring & Observability  
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)  
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)  
-![Nagios](https://img.shields.io/badge/Nagios-1C1C1C?style=for-the-badge&logo=nagios&logoColor=white)  
+![Prometheus](https://img.shields.io/badge/Prometheus-ffffff?style=for-the-badge&logo=prometheus&logoColor=black)  
+![Grafana](https://img.shields.io/badge/Grafana-ffffff?style=for-the-badge&logo=grafana&logoColor=black)  
+![Nagios](https://img.shields.io/badge/Nagios-ffffff?style=for-the-badge&logo=nagios&logoColor=black)  
 
 ### 🌐 Networking & Security  
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)  
-![VPN](https://img.shields.io/badge/VPN-0052CC?style=for-the-badge&logo=protonvpn&logoColor=white)  
-![Firewall](https://img.shields.io/badge/Firewall-FF6F00?style=for-the-badge&logoColor=white)  
+![Cisco](https://img.shields.io/badge/Cisco-ffffff?style=for-the-badge&logo=cisco&logoColor=black)  
+![VPN](https://img.shields.io/badge/VPN-ffffff?style=for-the-badge&logo=protonvpn&logoColor=black)  
+![Firewall](https://img.shields.io/badge/Firewall-ffffff?style=for-the-badge&logoColor=black)  
 
 ### ☁️ Cloud & Infra  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
