@@ -41,8 +41,8 @@
 ![Firewall](https://img.shields.io/badge/Firewall-ffffff?style=for-the-badge&logoColor=black)  
 
 ### ☁️ Cloud & Infra  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-ffffff?style=for-the-badge&logo=amazon-aws&logoColor=black)  
+![VMware](https://img.shields.io/badge/VMware-ffffff?style=for-the-badge&logo=vmware&logoColor=black)  
 
 ---
 
