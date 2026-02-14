@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Rakesh Kumar Jha  
 
-🚀 **Linux | DevOps | Kubernetes | Networking**  
+🚀 **Linux | DevOps | Kubernetes | Python | Networking**  
 💻 9+ years of experience in IT Infrastructure, System Administration, and DevOps Automation  
 
 ---
 
 ## 🧑‍💻 About Me  
-- 🌐 Experienced **System Administrator** with expertise in **Linux Server Administration, Kubernetes, Docker, and DevOps automation**  
-- 🔧 Skilled in **Ansible, Jenkins, GitLab CI, Git**, and **Infrastructure as Code (IaC)**  
+- 🌐 Experienced **System Administrator** with expertise in **Linux Server Administration, Kubernetes, Docker, DevOps automation and Python**  
+- 🔧 Skilled in **Ansible, Jenkins, GitLab CI, Git**, **Infrastructure as Code (IaC)**, Python**
 - 📊 Strong background in **Monitoring & Observability** using **Nagios, Prometheus, Grafana**  
 - 🛰️ Hands-on with **Networking (DNS, DHCP, VPN, Firewalls, Routing, Switching)**  
 - ☁️ Exposure to **Cloud & Hybrid Infrastructure** (AWS, OpenShift)  
