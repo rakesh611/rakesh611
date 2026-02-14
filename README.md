@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Rakesh Kumar Jha  
 
 🚀 **Linux | DevOps | Kubernetes | Python | Networking**  
-💻 9+ years of experience in IT Infrastructure, System Administration, and DevOps Automation  
+💻 9+ years of experience in IT Infrastructure, System Administration, DevOps Automation, and Python
 
 ---
 
