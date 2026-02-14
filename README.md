@@ -33,8 +33,9 @@
 ![AWS](https://img.shields.io/badge/AWS-ffffff?style=for-the-badge&logo=amazon-aws&logoColor=black)  ![VMware](https://img.shields.io/badge/VMware-ffffff?style=for-the-badge&logo=vmware&logoColor=black)  
 
 ### ☁️ Programming
+![Python](https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash_Script-ffffff?style=for-the-badge&logo=gnubash&logoColor=black)
 ![YAML](https://img.shields.io/badge/YAML-ffffff?style=for-the-badge&logo=yaml&logoColor=black)
-![JSON](https://img.shields.io/badge/JSON-ffffff?style=for-the-badge&logo=json&logoColor=black)
 ![Groovy](https://img.shields.io/badge/Groovy-ffffff?style=for-the-badge&logo=apachegroovy&logoColor=black)
 
 ---
