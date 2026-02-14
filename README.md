@@ -32,6 +32,11 @@
 ### ☁️ Cloud & Infra  
 ![AWS](https://img.shields.io/badge/AWS-ffffff?style=for-the-badge&logo=amazon-aws&logoColor=black)  ![VMware](https://img.shields.io/badge/VMware-ffffff?style=for-the-badge&logo=vmware&logoColor=black)  
 
+### ☁️ Programming
+![YAML](https://img.shields.io/badge/YAML-ffffff?style=for-the-badge&logo=yaml&logoColor=black)
+![JSON](https://img.shields.io/badge/JSON-ffffff?style=for-the-badge&logo=json&logoColor=black)
+![Groovy](https://img.shields.io/badge/Groovy-ffffff?style=for-the-badge&logo=apachegroovy&logoColor=black)
+
 ---
 
 ## 📂 Key Experience & Projects  
