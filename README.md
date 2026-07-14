@@ -59,7 +59,7 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakesh611&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rakesh611&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="181px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakesh611&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
 </p>  
 
